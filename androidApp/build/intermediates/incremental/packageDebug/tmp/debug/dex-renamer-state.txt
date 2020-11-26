@@ -1,0 +1,10 @@
+#Thu Nov 26 14:57:54 HKT 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/hilda/Workspace/android_studio/kotlin/FirstApp/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
+base.1=/Users/hilda/Workspace/android_studio/kotlin/FirstApp/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+base.0=/Users/hilda/Workspace/android_studio/kotlin/FirstApp/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
